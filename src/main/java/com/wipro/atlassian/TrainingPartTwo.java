@@ -3,7 +3,7 @@ package com.wipro.atlassian;
 public class TrainingPartTwo {
 public String display()
 {
-	System.out.print("Changed Hello modified ,integration with bamboo and jira");
+	System.out.print("Changed Hello modified,integration with bamboo and jira");
 	return ("Hello");
 }
 }
